@@ -10,7 +10,7 @@ Note: This project was part of the course _Microprocessors and Embedded Systems_
 
 This project aimed to to create a simple game for the ESP32 platform using a proportional joystick and an I2C display as input and output devices. The implemented game is the globally known **Ping Pong**. This game was chosen because of its low hardware requirements, needing to manage only three objects moving over time within a two-dimensional field.
 
-[![Demo video](https://raw.githubusercontent.com/DaliborKr/esp32_game/main/demo/demo_thumbnail.png)](https://raw.githubusercontent.com/DaliborKr/esp32_game/main/demo/demo_video.mp4)
+https://github.com/user-attachments/assets/e512288a-656b-4991-9d3a-85b5fe863b6b
 
 ## Device Configuration and Environment
 
